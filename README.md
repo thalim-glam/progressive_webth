@@ -73,9 +73,11 @@ THEN I should have proper build scripts for a webpack application
   - Click here for the repository: https://github.com/thalim-glam/progressive_webth 
   - Click here for Readme file: https://github.com/thalim-glam/progressive_webth/blob/main/README.md 
   - Here is a sample screenshots of my application :
-    - Screenshot of Just Another Text Editor ![Screenshot of Just Another Text Editor](./image/Screenshot_User_friends.jpg)
-    - Screenshot of Thoughts ![Screenshot](./image/Screenshot_Thought_reactions.jpg)
-    - Screenshot of Reactions ![Screenshot](./image/Screenshot_Reactions.jpg)
+    - Screenshot of Just Another Text Editor localhost ![Screenshot of Just Another Text Editor](./images/JATE_localhost.jpg)
+    - Screenshot of Just Another Text Editor client ![Screenshot of Just Another Text Editor](./images/JATE_client.jpg)
+    - Screenshot of Just Another Text Editor server ![Screenshot of Just Another Text Editor](./images/JATE_server.jpg)
+    - Screenshot of Just Another Text Editor dist ![Screenshot of Just Another Text Editor](./images/JATE_client_dist.jpg)
+    - Screenshot of Just Another Text Editor Heroku ![Screenshot of Just Another Text Editor](./images/JATE_heroku.jpg)
     
 ## Command line code
 
