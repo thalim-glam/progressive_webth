@@ -25,7 +25,7 @@ export const putDb = async (content) => {
   const request = store.put({ id: 1, value: content }); //Storing and passing content
 
   const result = await request; // Confirmation of the request is assigned to result
-  console.log('Data is saved to the database', result);
+  console.log('Data is saved to the database', result.value);
 };
 
 // TODO: Add logic for a method that gets all the content from the database-------------------------------------------------
@@ -39,12 +39,17 @@ export const getDb = async () => {
 
   const store = tx.objectStore('jate');// Opennig the desired object store
 
-  const request = store.getAll(); // Using .getAll() methood to fetch all data
+  const request = store.get(1); // Using .getAll() methood to fetch all data
 
   const result = await request; // Confirmation of the request is assigned
 
-  console.log('result.value', result);
-  return result?.value;
+  if(result){
+    console.log('result.value', result.value);
+  }else{
+    console.log("database empty");
+  }
+
+  return result.value;
 };
 
 initdb();
