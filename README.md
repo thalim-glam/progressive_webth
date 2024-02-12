@@ -28,6 +28,7 @@
     - npm install --save-dev css-loader
     - npm install concurrently --save
     - npm npm install idb [for IndexedDB]
+  - [6] Here is the Heroku deployment link: https://pwahomework-7b0871d6f20f.herokuapp.com/
 
 ## Required Task 
 
@@ -72,7 +73,7 @@ THEN I should have proper build scripts for a webpack application
   - Click here for the repository: https://github.com/thalim-glam/progressive_webth 
   - Click here for Readme file: https://github.com/thalim-glam/progressive_webth/blob/main/README.md 
   - Here is a sample screenshots of my application :
-    - Screenshot of Users ![Screenshot](./image/Screenshot_User_friends.jpg)
+    - Screenshot of Just Another Text Editor ![Screenshot of Just Another Text Editor](./image/Screenshot_User_friends.jpg)
     - Screenshot of Thoughts ![Screenshot](./image/Screenshot_Thought_reactions.jpg)
     - Screenshot of Reactions ![Screenshot](./image/Screenshot_Reactions.jpg)
     
