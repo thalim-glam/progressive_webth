@@ -1,7 +1,7 @@
 # Progressive Web Application Text Editor
 
 ## Description
-- This project builds ....................................
+- This homewrok is about building a web text editor for users to create notes and code snippet both online and offline. The iser can reliably retrieve his data and use afterword. The integrated service workaer and cache API's ensure that the application is fully fuctional.
 
 ## Table of Contents
   - [Installation](#installation)
@@ -16,10 +16,18 @@
 
 - Here are the installation process :
   - [1] Here is the repo for this application https://github.com/thalim-glam/progressive_webth
-  - [2] Clone the repository or download the zip folder.
-  - [3] Open the source code in your code editor (for example VSCode).
-  - [4] Open the integrated terminal or git bash to test the application.
-  - [5] Please refer to [Tests](#tests) section for further information regarding testing.
+  - [2] The text editor needs a few methods to store and fetch data from IndexedDB.
+  - [3] Node.js and various npm pachages were used. All the necessary applications are stored in package.json file.
+  - [4] The required modules are bundled in package json which can be istalled using " npm run install ".
+  - [5] The npm packages are
+    - - npm install express [for express.js]
+    - - npm install --save-dev webpack [for webpack]
+    - - npm install webpack-dev-server --save-dev [For webpack-dev-server]
+    - - npm install --save-dev webpack-pwa-manifest
+    - - npm install babel
+    - - npm install --save-dev css-loader
+    - - npm install concurrently --save
+    - - npm npm install idb [for IndexedDB]
 
 ## Required Task 
 
@@ -96,12 +104,16 @@ Apart from me :D the credit also goes to my Instructor, TAs, Tutor, Classmates, 
  ![Github license](https://img.shields.io/badge/license-MIT-blue.svg) 
 
 ## Tests
-
-To test this application please type, 
-  - npm i [To install node modules if not there]
-  - make sure I have all the necessary dependecies inside package.json
-  - node server.js [ To start the server ]
-  - For more information please refer to the walkthrough video.
+The npm packages are
+    - npm i
+    - npm install express [for express.js]
+    - npm install --save-dev webpack [for webpack]
+    - npm install webpack-dev-server --save-dev [For webpack-dev-server]
+    - npm install --save-dev webpack-pwa-manifest
+    - npm install babel
+    - npm install --save-dev css-loader
+    - npm install concurrently --save
+    - npm npm install idb [for IndexedDB]
 
 ### Done By: Tasneem Halim 😎
 
