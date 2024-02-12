@@ -20,7 +20,7 @@
   - [3] Node.js and various npm pachages were used. All the necessary applications are stored in package.json file.
   - [4] The required modules are bundled in package json which can be istalled using " npm run install ".
   - [5] The npm packages are
-    - - npm install express [for express.js]
+    - npm install express [for express.js]
     - - npm install --save-dev webpack [for webpack]
     - - npm install webpack-dev-server --save-dev [For webpack-dev-server]
     - - npm install --save-dev webpack-pwa-manifest
@@ -105,15 +105,15 @@ Apart from me :D the credit also goes to my Instructor, TAs, Tutor, Classmates, 
 
 ## Tests
 The npm packages are
-    - npm i
-    - npm install express [for express.js]
-    - npm install --save-dev webpack [for webpack]
-    - npm install webpack-dev-server --save-dev [For webpack-dev-server]
-    - npm install --save-dev webpack-pwa-manifest
-    - npm install babel
-    - npm install --save-dev css-loader
-    - npm install concurrently --save
-    - npm npm install idb [for IndexedDB]
+  - npm i
+  - npm install express [for express.js]
+  - npm install --save-dev webpack [for webpack]
+  - npm install webpack-dev-server --save-dev [For webpack-dev-server]
+  - npm install --save-dev webpack-pwa-manifest
+  - npm install babel
+  - npm install --save-dev css-loader
+  - npm install concurrently --save
+  - npm npm install idb [for IndexedDB]
 
 ### Done By: Tasneem Halim 😎
 
