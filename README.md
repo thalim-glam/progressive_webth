@@ -21,13 +21,13 @@
   - [4] The required modules are bundled in package json which can be istalled using " npm run install ".
   - [5] The npm packages are
     - npm install express [for express.js]
-    - - npm install --save-dev webpack [for webpack]
-    - - npm install webpack-dev-server --save-dev [For webpack-dev-server]
-    - - npm install --save-dev webpack-pwa-manifest
-    - - npm install babel
-    - - npm install --save-dev css-loader
-    - - npm install concurrently --save
-    - - npm npm install idb [for IndexedDB]
+    - npm install --save-dev webpack [for webpack]
+    - npm install webpack-dev-server --save-dev [For webpack-dev-server]
+    - npm install --save-dev webpack-pwa-manifest
+    - npm install babel
+    - npm install --save-dev css-loader
+    - npm install concurrently --save
+    - npm npm install idb [for IndexedDB]
 
 ## Required Task 
 
