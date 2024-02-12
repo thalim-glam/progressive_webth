@@ -77,6 +77,7 @@ THEN I should have proper build scripts for a webpack application
     - Screenshot of Just Another Text Editor client ![Screenshot of Just Another Text Editor](./images/JATE_client.jpg)
     - Screenshot of Just Another Text Editor server ![Screenshot of Just Another Text Editor](./images/JATE_server.jpg)
     - Screenshot of Just Another Text Editor dist ![Screenshot of Just Another Text Editor](./images/JATE_client_dist.jpg)
+    - Screenshot of Just Another Text Editor SRC-SW ![Screenshot of Just Another Text Editor](./images/JATE_application.jpg)
     - Screenshot of Just Another Text Editor Heroku ![Screenshot of Just Another Text Editor](./images/JATE_heroku.jpg)
     
 ## Command line code
