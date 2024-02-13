@@ -39,10 +39,11 @@ export const getDb = async () => {
 
   const store = tx.objectStore('jate');// Opennig the desired object store
 
-  const request = store.get(1); // Using .getAll() methood to fetch all data
+  const request = store.getAll(); // Using .getAll() methood to fetch all data
 
   const result = await request; // Confirmation of the request is assigned
 
+  //This checking is for debugging
   if(result){
     console.log('result.value', result.value);
   }else{
